@@ -3,7 +3,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Bahasa: Python, JavaScript, Java, dll
+- 💻 Bahasa: Python, JavaScript, Java, Kunci shok, Japan, Dll
 - 🌐 Web: HTML, CSS, React, Node.js
 - 🗄️ Database: MySQL, PostgreSQL, MongoDB
 - ⚙️ Tools: Git, GitHub, Docker, Figma
@@ -11,16 +11,12 @@
 ---
 
 ## 📌 Proyek Unggulan
-### 🔹 [Nama Proyek 1](link_repo)
-Deskripsi singkat tentang proyek ini.  
-**Tech:** React, Node.js
+### 🔹 [REMAP ECU STD)
 
-### 🔹 [Nama Proyek 2](link_repo)
-Deskripsi singkat tentang proyek ini.  
+### 🔹 [ARDUINO KONFIGURASI)
 **Tech:** Python, Flask
 
-### 🔹 [Nama Proyek 3](link_repo)
-Deskripsi singkat tentang proyek ini.  
+### 🔹 [STECU-STECU)  
 **Tech:** Machine Learning, Pandas
 
 ---
@@ -31,10 +27,10 @@ Deskripsi singkat tentang proyek ini.
 ---
 
 ## 📫 Kontak
-- Email: emailkamu@gmail.com  
-- LinkedIn: https://linkedin.com/in/username  
-- Portfolio Website: https://namakamu.com (kalau ada)
+- Email:alexandro.sihotang30smk.belajar.id 
+- LinkedIn: https🥇
+- Portfolio Website:blom ada jang 6
 
 ---
 
-✨ _Terbuka untuk kolaborasi dan peluang baru!_
+
